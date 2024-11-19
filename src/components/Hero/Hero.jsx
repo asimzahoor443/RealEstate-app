@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from '../../../public/hero-image.png';
+import HeroImage from '../../assests/hero-image.png';
 import './Hero.css';
 import { HiLocationMarker } from 'react-icons/hi';
 import CountUp from 'react-countup';
