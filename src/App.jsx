@@ -1,6 +1,7 @@
 import Companies from './Companies/Companies';
 import Residencies from './Companies/Residencies/Residencies';
 import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 import GetStarted from './components/GetStarted/GetStarted';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
@@ -19,6 +20,7 @@ function App() {
       <Value />
       <Contact />
       <GetStarted />
+      <Footer />
     </div>
   );
 }
